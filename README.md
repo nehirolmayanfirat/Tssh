@@ -3,6 +3,8 @@
 Tssh, SSH komutlarını Türkçe olarak kullanmanı sağlayan basit bir bash aracıdır.  
 SSH, SCP, RSYNC, SFTP, SSHFS gibi komutları Türkçe şekilde çağırabilir ve tüm SSH parametrelerini destekler.
 
+Ayrıca "anahtar-gönder"|"anahtargönder"|"anahtar_gonder" gibi farklı yazı stillerine görede uyum sağlar.
+
 ---
 
 ## Özellikler
