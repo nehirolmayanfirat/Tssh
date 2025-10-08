@@ -136,7 +136,7 @@ case "$komut" in
   "github"|"Github")
     echo -e "${RENK_MOR}"
     echo "╭────────────────────────────────────────╮"
-    echo "│  GitHub'da Yıldızlamayı Unutma!       │"
+    echo "│  GitHub;                               │"
     echo "│                                        │"
     echo "│  @nehirolmayanfirat                    │"
     echo "╰────────────────────────────────────────╯"
